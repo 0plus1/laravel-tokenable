@@ -1,0 +1,2 @@
+# laravel-tokenable
+Tokenable trait
