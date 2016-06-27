@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"0plus1\\Tokenable\\": "src/"
+			"Zeroplusone\\Tokenable\\": "src/"
 		}
 	}
 }
