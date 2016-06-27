@@ -1,0 +1,23 @@
+{
+	"name": "0plus1/laravel-tokenable",
+	"description": "Use PHP traits to associate tokens to Laravel Eloquent Models.",
+	"license": "MIT",
+	"homepage": "https://github.com/0plus1/laravel-tokenable",
+	"keywords": ["token", "tokens", "tokenable", "laravel", "lumen", "trait", "eloquent"],
+	"authors": [
+		{
+			"name": "Davide Gaido",
+			"email": "davide@0plus1.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5.0",
+		"illuminate/database": ">= 5.0",
+		"illuminate/support": ">= 5.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"0plus1\\Tokenable\\": "src/"
+		}
+	}
+}
